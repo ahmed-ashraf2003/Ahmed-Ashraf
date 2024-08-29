@@ -1,37 +1,56 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ashraf</h1>
-<h3 align="center">i,m Computer Science Student , mobile Dev</h3>
+<h1 align="center">Hi 👋, I'm Ahmed Ashraf y</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ashraf2003&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ashraf2003" /> </p>
-
-- 🌱 I’m currently learning **Flutter Developer**
-
-- 👨‍💻 All of my projects are available at [https://github.com/dsahmd914](https://github.com/dsahmd914)
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **dsahmed914@gmail.com**
-
-- ⚡ Fun fact **i'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ahmed-ashraf2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-ashraf2003" height="30" width="40" /></a>
-<a href="https://fb.com/ahmed ashraf adss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed ashraf adss" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmed_adss22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed_adss22" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=30&center=true&vCenter=true&width=435&lines=Welcome+To+My+Github+Profile;Computer+Science+Student%F0%9F%92%BB;Always+Learning+New+Things" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-ashraf2003&show_icons=true&locale=en&layout=compact" alt="ahmed-ashraf2003" /></p>
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed-ashraf2003&show_icons=true&locale=en" alt="ahmed-ashraf2003" /></p>
+<picture> <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width = 350px></picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ashraf2003&" alt="ahmed-ashraf2003" /></p>
+<br>
+
+### ➡️ I am a computer science student & Mobile Developer . 
+### ➡️ I am passionate about programming and enjoy Discover new technologies.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My Skills</h2>
+
+<br>
+
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
 
+    
+<h2><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="35"> Github Stats </h2>
 
-linl=> https://rahuldkjain.github.io/gh-profile-readme-generator/
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=adhamelagaty&label=Profile%20views&color=0e75b6&style=flat" alt="AdhamElagaty" /> </p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdhamElagaty&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="AdhamElagaty" />
+</p>
+
+<p align="center">      
+<a href="https://github.com/AdhamElagaty">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AdhamElagaty&show_icons=true&theme=gruvbox&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdhamElagaty&theme=gruvbox&hide_border=true" />
+</a>
+</p>
+
+
+<hr>
+
+
+<h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/adhamelagaty/" target='_blank'><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a> 
+<a href="mailto:adhamelagaty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me via Gmail"/></a>
+
+<p align="center">
+<pI hope this helps! Let me know if you have any further questions or if there is anything else I can assist you with.
