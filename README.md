@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsahmd914](https://github.com/ahmedadss2003)
-- 
-- 👨‍💻 U can see more about me at [https://github.com/dsahmd914]([https://github.com/ahmedadss2003](https://ahmedadss2003.github.io/my-portofolio/))
+  
+- 👨‍💻 - 👨‍💻 You can see more about me at [my portfolio](https://ahmedadss2003.github.io/my-portofolio/)
 
 - 💬 Ask me about **Flutter**
 
